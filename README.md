@@ -8,6 +8,7 @@ I am hoping to pursue a career in public relations, advertising and marketing. D
 
 ## Lehigh First Year Students 
 ![Infographic](https://kendallcoughlin.github.io/10.png) 
+https://www.canva.com/design/DACReylWbCI/share?role=EDITOR&token=JtQBzmln692vmhk-OevCWQ&utm_content=DACReylWbCI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1VN8wcgwq1969XRM6iH3ufyOEvjFCkSH4Og-gbOcvs-4&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
