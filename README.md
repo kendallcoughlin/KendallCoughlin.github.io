@@ -14,4 +14,4 @@ I am hoping to pursue a career in public relations, advertising and marketing. D
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1VN8wcgwq1969XRM6iH3ufyOEvjFCkSH4Og-gbOcvs-4&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 
-<iframe src="https://docs.google.com/spreadsheets/d/1JO0XHU9RMcB2JOmc4-_fP1Ma6gcO9bxwv6z_HJaQuGg/pubhtml?widget=true&amp;headers=false"></iframe>
+
