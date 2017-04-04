@@ -7,7 +7,7 @@ I am hoping to pursue a career in public relations, advertising and marketing. D
 
 
 ## Lehigh First Year Students 
-![Infographic](https://kendallcoughlin.github.io/10.png) https://github.com/kendallcoughlin/KendallCoughlin.github.io/blob/master/Lehigh%20First%20Year%20Colleges.png
+![Infographic](https://kendallcoughlin.github.io/10.png) 
 
 
 
