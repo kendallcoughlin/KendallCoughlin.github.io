@@ -6,8 +6,9 @@ Hello, my name is Kendall Coughlin and I'm a sophomore at Lehigh University in B
 I am hoping to pursue a career in public relations, advertising and marketing. During my time at Lehigh I have found my course work extremely exciting and interesting as it related to the evolving media and world of journalism we live in. This summer I am extremely excited to have the opportunity to travel as an Iacocca Intern to Milan, Italy. This  opportunity is allowing me to apply  my coursework in Journalism, Marketing and Communications at Lehigh to real world situations and gain global experience. I will be spending 7 weeks interning with a company performing tasks in public relations, communications, drafting copy, and using various social media platforms. The Iacocca Internship will provide me the opportunity of a lifetime, with hands-on international experience that I will be able to use in my career. 
 
 
-## Lehigh First Year Students 
-![Infographic](https://kendallcoughlin.github.io/10.png) 
+## 5 Best Slices of Ocean City Pizza 
+
+![Infographic](KendallCoughlin.github.io/pizza.png) 
 
 
 
