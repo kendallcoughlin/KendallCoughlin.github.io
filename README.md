@@ -13,8 +13,10 @@ I am hoping to pursue a career in public relations, advertising and marketing. D
  American consumers were asked their favorite ice cream flavors in the year of 2014. This statistic presents the results of an online survey conducted by Vision Critical and Yahoo in 2014. 
 
 
+## Timeline of the Life of Kerry Washington
 
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1VN8wcgwq1969XRM6iH3ufyOEvjFCkSH4Og-gbOcvs-4&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+Kerry Washington is an American actress. Washington is known for her lead as Olivia Pope in ABC's hit show Scandal. 
 
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1JO0XHU9RMcB2JOmc4-_fP1Ma6gcO9bxwv6z_HJaQuGg&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 
