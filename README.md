@@ -35,3 +35,12 @@ This is a map of butterflies from Costa Rica.
 
 <iframe width="800" height="500" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col12+from+1NjNGcBG8dtXQBu1Fia_9ReUgf7PLchELIOd-KXSV&amp;viz=MAP&amp;h=false&amp;lat=10.902224578468408&amp;lng=-85.43183000000005&amp;t=1&amp;z=11&amp;l=col12&amp;y=2&amp;tmplt=2&amp;hml=TWO_COL_LAT_LNG"></iframe>
 
+
+
+
+
+## Map of Art in Bethlehem 
+
+This is a map of art galleries in Bethelhem, Pennsylvania. 
+
+<iframe width="800" height="500" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1pHALZ6lyGP8ZneRyHuaFjq2bluUtUN7oD7QFmotn&amp;viz=MAP&amp;h=false&amp;lat=40.61297002948604&amp;lng=-75.37843167196655&amp;t=1&amp;z=15&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
