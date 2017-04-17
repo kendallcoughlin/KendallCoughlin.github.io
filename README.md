@@ -44,3 +44,9 @@ This is a map of butterflies from Costa Rica.
 This is a map of art galleries in Bethelhem, Pennsylvania. 
 
 <iframe width="800" height="500" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1pHALZ6lyGP8ZneRyHuaFjq2bluUtUN7oD7QFmotn&amp;viz=MAP&amp;h=false&amp;lat=40.61297002948604&amp;lng=-75.37843167196655&amp;t=1&amp;z=15&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
+
+## Map of Ice Cream in Ocean City
+
+This is a map of 5 places to get ice cream in Ocean City, New Jersey. 
+
+<iframe width="800" height="500" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+15AhikPDVOOI2lEW7NV9ggwPgjZvr1DQcBh0-i1sc&amp;viz=MAP&amp;h=false&amp;lat=39.265493930623954&amp;lng=-74.5000248828125&amp;t=1&amp;z=10&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
