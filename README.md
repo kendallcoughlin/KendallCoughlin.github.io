@@ -61,3 +61,5 @@ This is a map of 5 places to get ice cream in Ocean City, New Jersey.
 ##Comic 
 
 ![Comic](KendallCoughlin.github.io/Screen Shot 2017-04-26 at 3.40.38 PM.png)
+
+
