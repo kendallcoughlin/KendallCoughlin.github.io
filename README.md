@@ -10,7 +10,7 @@ I am hoping to pursue a career in public relations, advertising and marketing. D
 
 ![Infographic](https://github.com/kendallcoughlin/KendallCoughlin.github.io/blob/master/ben%20and%20jerrys.jpg?raw=true) 
 
- American consumers were asked what their favorite Ben & Jerry's flavor was for the year of 2016. This statistic presents the results of the findings. 
+American consumers were asked what their favorite Ben & Jerry's flavor was for the year of 2016. This statistic presents the results of that survey.
 
 
 ## Timeline of the Life of Kerry Washington
