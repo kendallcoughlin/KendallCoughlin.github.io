@@ -8,9 +8,9 @@ I am hoping to pursue a career in public relations, advertising and marketing. D
 
 ## Top 10 Ice Cream Flavors of 2014
 
-![Infographic](https://kendallcoughlin.github.io/icecream.png) 
+![Infographic](KendallCoughlin.github.io/Consumers' favorite ice cream flavors in the United States in 2014.jpg) 
 
- American consumers were asked their favorite ice cream flavors in the year of 2014. This statistic presents the results of an online survey conducted by Vision Critical and Yahoo in 2014. 
+ American consumers were asked what their favorite Ben & Jerry's flavor was for the year of 2016. This statistic presents the results of the findings. 
 
 
 ## Timeline of the Life of Kerry Washington
